@@ -22,4 +22,15 @@ should have something to contribute.
 
 ## Summary
 
-<!-- your notes here -->
+NoSQL:
+- Not relational
+- Preferable for easily changeable data
+- Good for large volumes of data
+- Caching is handled differently
+- querying is handled differently
+- Separated into documents, which are kind of like tables
+  - more or less think of it like a blank page, when you want to find something you just
+  kind of...query what you know.
+- Sharding?
+- Relational is better when you know what you want
+- Also better if structure is helpful, easier to spot mistakes
